@@ -1,11 +1,11 @@
 # CDRL
 
-This is an official implementation of the unsupervised heterogeneous change detection framework **CDRL** in our paper: Cross-Domain Difference Representation Learning for Unsupervised Heterogeneous Change Detection[**Under Review**].
+This is an official implementation of **CDRL** in our paper: Cross-Domain Difference Representation Learning for Unsupervised Heterogeneous Change Detection[**Under Review**].
 
 ## 🛎️Update
 
-- 2025/6/1: The complete code will be released later (after the review process is completed).
-- 2025/6/1: The datasets for CDRL have been uploaded, you can get them from [here](https://pan.baidu.com/s/18On1IypU35CiyLdgTUlUeA?pwd=2025).
+- 2025/6/3: The complete code will be released later (after the review process is completed).
+- 2025/6/3: The datasets for CDRL have been uploaded, you can get them from [here](https://pan.baidu.com/s/18On1IypU35CiyLdgTUlUeA?pwd=2025).
 
 ## 🙋Running
 
