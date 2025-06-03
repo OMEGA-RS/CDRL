@@ -1,4 +1,4 @@
-# CFRL
+# CDRL
 
 This is an official implementation of the unsupervised heterogeneous change detection framework **CDRL** in our paper: Cross-Domain Difference Representation Learning for Unsupervised Heterogeneous Change Detection[**Under Review**].
 
