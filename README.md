@@ -62,9 +62,8 @@ If you find our work useful, please consider citing:
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Cross-Domain Difference Representation Learning for Unsupervised Heterogeneous Change Detection}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={63},
+  pages={1-17},
   doi={10.1109/TGRS.2025.3584073}
 }
 ```
